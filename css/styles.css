@@ -1,0 +1,9 @@
+.important{
+  font-style: italic;
+  color: green;
+}
+
+.about {
+  font-style: bold;
+  color: turquoise;
+}
