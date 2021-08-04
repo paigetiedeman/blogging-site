@@ -11,7 +11,7 @@
 
 ## Description
 
-This site is one-page with simple sections for blog posts and an about me.
+This site is one-page with simple sections for blog posts and an about me relating to trees.
 
 ## Setup/Installation Requirements
 

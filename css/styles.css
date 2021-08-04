@@ -28,3 +28,12 @@ h1 {
 h2 {
   text-align: center;
 }
+
+.centered-image {
+  margin-top: auto;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: auto;
+  display: block;
+}
