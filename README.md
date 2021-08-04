@@ -15,7 +15,7 @@ This site is one-page with simple sections for blog posts and an about me relati
 
 ## Setup/Installation Requirements
 
-* Open https://github.com/paigetiedeman/my-first-webpage on your browser
+* Open https://github.com/paigetiedeman/blogging-site on your browser
 
 
 ## Known Bugs
